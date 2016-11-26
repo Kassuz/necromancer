@@ -5,7 +5,19 @@ public class Grave : MonoBehaviour
 {
     [SerializeField] private GameObject zombiePrefab;
 
+    private MeshRenderer meshRenderer;
+
     private bool isEmpty = false;
+    private float timer = 0f;
+
+    void Update()
+    {
+        if (timer >= 1f)
+        {
+            SpawnZombie();
+            timer = 0;
+        }
+    }
 
     void OnTriggerStay(Collider col)
     {
@@ -14,15 +26,21 @@ public class Grave : MonoBehaviour
             PlayerMovement pM = col.GetComponent<PlayerMovement>();
             if (pM.IsResurrecting)
             {
-                isEmpty = true;
-                StartCoroutine(SpawnZombie());                
+                timer += Time.deltaTime;               
             }
         }
     }
 
-    private IEnumerator SpawnZombie()
+    void OnTriggerExit(Collider col)
     {
-        yield return new WaitForSeconds(1f);
+        if (col.gameObject.tag == "Player" && !isEmpty)
+        {
+            timer = 0f;
+        }
+    }
+
+    private void SpawnZombie()
+    {
         Instantiate(zombiePrefab, transform.position, Quaternion.identity);
     }
 

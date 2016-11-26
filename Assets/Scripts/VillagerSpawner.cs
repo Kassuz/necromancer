@@ -7,7 +7,7 @@ public class VillagerSpawner : MonoBehaviour
     [SerializeField] private GameObject villagerPrefab;
 
     private float timeTillNextSpawn;
-    private float spawnTimeDelta = 4f;
+    private float spawnTimeDelta = 6f;
 
     void Update()
     {

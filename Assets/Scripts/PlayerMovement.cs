@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Joystick1Button0))
+        if (Input.GetKey(KeyCode.Joystick1Button0))
         {
             IsResurrecting = true;
         } 
@@ -50,5 +50,14 @@ public class PlayerMovement : MonoBehaviour
             rb.MovePosition(transform.position + movement);
         }
     }
+
+    void OnCollisionEnter(Collision col)
+    {
+        if (col.gameObject.tag == "Villager")
+        {
+            Destroy(gameObject);
+            Time.timeScale = 0;
+        }
+    } 
 
 }
