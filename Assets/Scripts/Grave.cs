@@ -4,18 +4,47 @@ using System.Collections;
 public class Grave : MonoBehaviour
 {
     [SerializeField] private GameObject zombiePrefab;
+    [SerializeField] private GameObject belovedPrefab;
 
-    private MeshRenderer meshRenderer;
+    private GameManager gm;
 
     private bool isEmpty = false;
     private float timer = 0f;
+
+    void Awake()
+    {
+        gm = GameObject.Find("GameManager").GetComponent<GameManager>();
+    }
 
     void Update()
     {
         if (timer >= 1f)
         {
-            SpawnZombie();
+            if (gm.ZombiesSpawned >= 20 && !gm.SpawnedBeloved)
+            {
+                SpawnBeloved();
+                gm.SpawnedBeloved = true;
+            }
+            else if (gm.ZombiesSpawned >= 7 && !gm.SpawnedBeloved)
+            {
+                if (Random.value <= .50f)
+                {
+                    SpawnBeloved();
+                    gm.SpawnedBeloved = true;
+                }
+                else
+                {
+                    SpawnZombie();
+                }
+                    
+            }
+            else
+            {
+                SpawnZombie();
+            }
+            
             timer = 0;
+            gameObject.SetActive(false);
         }
     }
 
@@ -42,6 +71,11 @@ public class Grave : MonoBehaviour
     private void SpawnZombie()
     {
         Instantiate(zombiePrefab, transform.position, Quaternion.identity);
+        gm.ZombiesSpawned++;
     }
 
+    private void SpawnBeloved()
+    {
+        Instantiate(belovedPrefab, transform.position, belovedPrefab.transform.rotation);
+    }
 }

@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Villager
   - Zombie
+  - Beloved
   layers:
   - Default
   - TransparentFX

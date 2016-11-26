@@ -28,8 +28,8 @@ GameObject:
   m_Name: Tombstone_021
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000010101920576
 GameObject:
@@ -48,8 +48,8 @@ GameObject:
   m_Name: Tombstone_020
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000010180117244
 GameObject:
@@ -68,8 +68,8 @@ GameObject:
   m_Name: Tombstone_019
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000010257645648
 GameObject:
@@ -88,8 +88,8 @@ GameObject:
   m_Name: Tombstone_018
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000010422231480
 GameObject:
@@ -108,8 +108,8 @@ GameObject:
   m_Name: Tombstone_013
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000010589759588
 GameObject:
@@ -128,8 +128,8 @@ GameObject:
   m_Name: Tombstone_008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000010663177856
 GameObject:
@@ -148,8 +148,8 @@ GameObject:
   m_Name: Tombstone_014
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000010682826886
 GameObject:
@@ -168,8 +168,8 @@ GameObject:
   m_Name: Tombstone_007
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000010744465698
 GameObject:
@@ -188,8 +188,8 @@ GameObject:
   m_Name: Tombstone_006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000010950827226
 GameObject:
@@ -208,8 +208,8 @@ GameObject:
   m_Name: Tombstone_005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000010975574154
 GameObject:
@@ -227,7 +227,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000011216945666
 GameObject:
@@ -260,7 +260,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000011631498506
 GameObject:
@@ -279,8 +279,8 @@ GameObject:
   m_Name: Tombstone_022
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000011645160624
 GameObject:
@@ -299,8 +299,8 @@ GameObject:
   m_Name: Tombstone_015
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000011678018730
 GameObject:
@@ -319,8 +319,8 @@ GameObject:
   m_Name: Tombstone_003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000011693266914
 GameObject:
@@ -339,8 +339,8 @@ GameObject:
   m_Name: Tombstone_002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000011716912102
 GameObject:
@@ -359,8 +359,8 @@ GameObject:
   m_Name: Tombstone_016
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000011798602686
 GameObject:
@@ -379,8 +379,8 @@ GameObject:
   m_Name: Tombstone_017
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000011902387570
 GameObject:
@@ -397,8 +397,8 @@ GameObject:
   m_Name: Fence
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000012035869976
 GameObject:
@@ -417,8 +417,8 @@ GameObject:
   m_Name: Tombstone_001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000012185241954
 GameObject:
@@ -437,8 +437,8 @@ GameObject:
   m_Name: Tombstone_010
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000012398999776
 GameObject:
@@ -457,8 +457,8 @@ GameObject:
   m_Name: Tombstone_009
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000013234425680
 GameObject:
@@ -477,8 +477,8 @@ GameObject:
   m_Name: Tombstone_004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000013237495550
 GameObject:
@@ -497,8 +497,8 @@ GameObject:
   m_Name: Tombstone_000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000013413151316
 GameObject:
@@ -517,8 +517,8 @@ GameObject:
   m_Name: Tombstone_023
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000013607909608
 GameObject:
@@ -552,8 +552,8 @@ GameObject:
   m_Name: Tombstone_012
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!1 &1000013696579298
 GameObject:
@@ -570,6 +570,26 @@ GameObject:
   - 114: {fileID: 114000011160257286}
   m_Layer: 0
   m_Name: Tombstone_011
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
+  m_IsActive: 1
+--- !u!1 &1000013781939486
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012680521394}
+  - 33: {fileID: 33000010000960002}
+  - 23: {fileID: 23000011698065772}
+  - 65: {fileID: 65000010162528526}
+  - 65: {fileID: 65000012425259692}
+  - 114: {fileID: 114000014150339810}
+  m_Layer: 0
+  m_Name: Altar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -715,7 +735,7 @@ Transform:
   - {fileID: 4000012255803424}
   - {fileID: 4000013960795662}
   m_Father: {fileID: 4000013424983790}
-  m_RootOrder: 3
+  m_RootOrder: 4
 --- !u!4 &4000011238962302
 Transform:
   m_ObjectHideFlags: 1
@@ -741,7 +761,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 4000013424983790}
-  m_RootOrder: 2
+  m_RootOrder: 3
 --- !u!4 &4000011380100920
 Transform:
   m_ObjectHideFlags: 1
@@ -885,6 +905,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 4000013424983790}
   m_RootOrder: 0
+--- !u!4 &4000012680521394
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013781939486}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 15.61, y: 2.8, z: -0.57}
+  m_LocalScale: {x: 1.4294697, y: 0.68015665, z: 3.2821996}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000013424983790}
+  m_RootOrder: 2
 --- !u!4 &4000013070897292
 Transform:
   m_ObjectHideFlags: 1
@@ -924,6 +957,7 @@ Transform:
   m_Children:
   - {fileID: 4000012528616982}
   - {fileID: 4000012446904022}
+  - {fileID: 4000012680521394}
   - {fileID: 4000011360082510}
   - {fileID: 4000011214197536}
   m_Father: {fileID: 0}
@@ -1319,6 +1353,35 @@ MeshRenderer:
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
   m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedWireframeHidden: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+--- !u!23 &23000011698065772
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013781939486}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_SelectedWireframeHidden: 0
@@ -1763,6 +1826,13 @@ MeshRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
+--- !u!33 &33000010000960002
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013781939486}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!33 &33000010112952566
 MeshFilter:
   m_ObjectHideFlags: 1
@@ -1988,6 +2058,18 @@ MeshCollider:
   serializedVersion: 2
   m_Convex: 0
   m_Mesh: {fileID: 4300052, guid: 5e58bc6a05196bb4788c300c427addc3, type: 3}
+--- !u!65 &65000010162528526
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013781939486}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.4, y: 1, z: 1.24}
+  m_Center: {x: 0, y: 1, z: 0}
 --- !u!65 &65000010557396960
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -2288,6 +2370,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.77, y: 25.2, z: 2}
   m_Center: {x: 0, y: 10.8, z: 0}
+--- !u!65 &65000012425259692
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013781939486}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!65 &65000012461395870
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -2577,6 +2671,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
     type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
+    type: 2}
 --- !u!114 &114000010732738424
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2589,6 +2685,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
+    type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
     type: 2}
 --- !u!114 &114000010791343568
 MonoBehaviour:
@@ -2603,6 +2701,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
     type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
+    type: 2}
 --- !u!114 &114000010811956026
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2615,6 +2715,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
+    type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
     type: 2}
 --- !u!114 &114000011068096872
 MonoBehaviour:
@@ -2629,6 +2731,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
     type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
+    type: 2}
 --- !u!114 &114000011104072074
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2641,6 +2745,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
+    type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
     type: 2}
 --- !u!114 &114000011117580672
 MonoBehaviour:
@@ -2655,6 +2761,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
     type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
+    type: 2}
 --- !u!114 &114000011134033128
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2667,6 +2775,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
+    type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
     type: 2}
 --- !u!114 &114000011160257286
 MonoBehaviour:
@@ -2681,6 +2791,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
     type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
+    type: 2}
 --- !u!114 &114000011190249760
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2693,6 +2805,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
+    type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
     type: 2}
 --- !u!114 &114000011303138378
 MonoBehaviour:
@@ -2707,6 +2821,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
     type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
+    type: 2}
 --- !u!114 &114000011308481244
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2719,6 +2835,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
+    type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
     type: 2}
 --- !u!114 &114000011444311972
 MonoBehaviour:
@@ -2733,6 +2851,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
     type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
+    type: 2}
 --- !u!114 &114000011680337712
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2745,6 +2865,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
+    type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
     type: 2}
 --- !u!114 &114000012162119432
 MonoBehaviour:
@@ -2759,6 +2881,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
     type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
+    type: 2}
 --- !u!114 &114000012488114860
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2771,6 +2895,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
+    type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
     type: 2}
 --- !u!114 &114000012637269888
 MonoBehaviour:
@@ -2785,6 +2911,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
     type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
+    type: 2}
 --- !u!114 &114000012676126402
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2797,6 +2925,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
+    type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
     type: 2}
 --- !u!114 &114000012721745766
 MonoBehaviour:
@@ -2811,6 +2941,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
     type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
+    type: 2}
 --- !u!114 &114000012870228348
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2823,6 +2955,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
+    type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
     type: 2}
 --- !u!114 &114000012933388014
 MonoBehaviour:
@@ -2837,6 +2971,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
     type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
+    type: 2}
 --- !u!114 &114000013262804288
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2849,6 +2985,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
+    type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
     type: 2}
 --- !u!114 &114000013823588592
 MonoBehaviour:
@@ -2863,6 +3001,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
     type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
+    type: 2}
+--- !u!114 &114000014150339810
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013781939486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7571e84cdf551124a954ce11bb9cb0fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114000014212752638
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2875,4 +3026,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zombiePrefab: {fileID: 1000010663685376, guid: 09536762fee57194b813f011a58378bc,
+    type: 2}
+  belovedPrefab: {fileID: 1000013226608208, guid: 5f52c95ac9a382e458995e0dc3920319,
     type: 2}
