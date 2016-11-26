@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 5e58bc6a05196bb4788c300c427addc3
+timeCreated: 1480135347
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Character
+    100002: Fence
+    100004: Ground
+    100006: //RootNode
+    100008: Podium
+    100010: Tombstone_000
+    100012: Tombstone_001
+    100014: Tombstone_002
+    100016: Tombstone_003
+    100018: Tombstone_004
+    100020: Tombstone_005
+    100022: Tombstone_006
+    100024: Tombstone_007
+    100026: Tombstone_008
+    100028: Tombstone_009
+    100030: Tombstone_010
+    100032: Tombstone_011
+    100034: Tombstone_012
+    100036: Tombstone_013
+    100038: Tombstone_014
+    100040: Tombstone_015
+    100042: Tombstone_016
+    100044: Tombstone_017
+    100046: Tombstone_018
+    100048: Tombstone_019
+    100050: Tombstone_020
+    100052: Tombstone_021
+    100054: Tombstone_022
+    100056: Tombstone_023
+    400000: Character
+    400002: Fence
+    400004: Ground
+    400006: //RootNode
+    400008: Podium
+    400010: Tombstone_000
+    400012: Tombstone_001
+    400014: Tombstone_002
+    400016: Tombstone_003
+    400018: Tombstone_004
+    400020: Tombstone_005
+    400022: Tombstone_006
+    400024: Tombstone_007
+    400026: Tombstone_008
+    400028: Tombstone_009
+    400030: Tombstone_010
+    400032: Tombstone_011
+    400034: Tombstone_012
+    400036: Tombstone_013
+    400038: Tombstone_014
+    400040: Tombstone_015
+    400042: Tombstone_016
+    400044: Tombstone_017
+    400046: Tombstone_018
+    400048: Tombstone_019
+    400050: Tombstone_020
+    400052: Tombstone_021
+    400054: Tombstone_022
+    400056: Tombstone_023
+    2300000: Character
+    2300002: Fence
+    2300004: Ground
+    2300006: Podium
+    2300008: Tombstone_000
+    2300010: Tombstone_001
+    2300012: Tombstone_002
+    2300014: Tombstone_003
+    2300016: Tombstone_004
+    2300018: Tombstone_005
+    2300020: Tombstone_006
+    2300022: Tombstone_007
+    2300024: Tombstone_008
+    2300026: Tombstone_009
+    2300028: Tombstone_010
+    2300030: Tombstone_011
+    2300032: Tombstone_012
+    2300034: Tombstone_013
+    2300036: Tombstone_014
+    2300038: Tombstone_015
+    2300040: Tombstone_016
+    2300042: Tombstone_017
+    2300044: Tombstone_018
+    2300046: Tombstone_019
+    2300048: Tombstone_020
+    2300050: Tombstone_021
+    2300052: Tombstone_022
+    2300054: Tombstone_023
+    3300000: Character
+    3300002: Fence
+    3300004: Ground
+    3300006: Podium
+    3300008: Tombstone_000
+    3300010: Tombstone_001
+    3300012: Tombstone_002
+    3300014: Tombstone_003
+    3300016: Tombstone_004
+    3300018: Tombstone_005
+    3300020: Tombstone_006
+    3300022: Tombstone_007
+    3300024: Tombstone_008
+    3300026: Tombstone_009
+    3300028: Tombstone_010
+    3300030: Tombstone_011
+    3300032: Tombstone_012
+    3300034: Tombstone_013
+    3300036: Tombstone_014
+    3300038: Tombstone_015
+    3300040: Tombstone_016
+    3300042: Tombstone_017
+    3300044: Tombstone_018
+    3300046: Tombstone_019
+    3300048: Tombstone_020
+    3300050: Tombstone_021
+    3300052: Tombstone_022
+    3300054: Tombstone_023
+    4300000: Tombstone_023
+    4300002: Tombstone_022
+    4300004: Tombstone_021
+    4300006: Tombstone_020
+    4300008: Tombstone_007
+    4300010: Tombstone_006
+    4300012: Tombstone_005
+    4300014: Tombstone_004
+    4300016: Tombstone_003
+    4300018: Tombstone_002
+    4300020: Tombstone_001
+    4300022: Tombstone_000
+    4300024: Tombstone_019
+    4300026: Tombstone_018
+    4300028: Tombstone_017
+    4300030: Tombstone_016
+    4300032: Tombstone_015
+    4300034: Tombstone_014
+    4300036: Tombstone_013
+    4300038: Tombstone_012
+    4300040: Tombstone_011
+    4300042: Tombstone_010
+    4300044: Tombstone_009
+    4300046: Tombstone_008
+    4300048: Fence
+    4300050: Podium
+    4300052: Ground
+    4300054: Character
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
