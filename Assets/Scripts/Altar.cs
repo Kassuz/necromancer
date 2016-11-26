@@ -23,6 +23,7 @@ public class Altar : MonoBehaviour
             print("Beloved on altar");
             beloved.parent = transform;
             beloved.localPosition = new Vector3(0f, 1f, 0f);
+            beloved.localScale = new Vector3(.6f, .5f, .2f);
             beloved.localRotation = Quaternion.Euler(new Vector3(0, 90, 0));
             gm.GameWon();
         }

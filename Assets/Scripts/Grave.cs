@@ -27,7 +27,7 @@ public class Grave : MonoBehaviour
             }
             else if (gm.ZombiesSpawned >= 7 && !gm.SpawnedBeloved)
             {
-                if (Random.value <= .50f)
+                if (Random.value <= .30f)
                 {
                     SpawnBeloved();
                     gm.SpawnedBeloved = true;
