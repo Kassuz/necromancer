@@ -9,10 +9,14 @@ public class PlayerMovement : MonoBehaviour
     public bool IsResurrecting { get; private set; }
 
     private Rigidbody rb;
+    private Animator anim;
+    private GameManager gm;
 
     void Awake()
     {
         rb = GetComponent<Rigidbody>();
+        anim = GetComponentInChildren<Animator>();
+        gm = GameObject.Find("GameManager").GetComponent<GameManager>();
     }
 
     void Update()
@@ -33,6 +37,14 @@ public class PlayerMovement : MonoBehaviour
         float inputY = Input.GetAxisRaw("Horizontal");
 
         Move(-inputX, inputY);
+        if (inputX != 0 || inputY != 0)
+        {
+            anim.SetBool("Moving", true);
+        } 
+        else
+        {
+            anim.SetBool("Moving", false);
+        }
 
     }
 
@@ -55,8 +67,8 @@ public class PlayerMovement : MonoBehaviour
     {
         if (col.gameObject.tag == "Villager")
         {
+            gm.GameLost();
             Destroy(gameObject);
-            Time.timeScale = 0;
         }
     } 
 

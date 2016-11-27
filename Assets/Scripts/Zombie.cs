@@ -20,7 +20,7 @@ public class Zombie : MonoBehaviour
         rb.velocity = Vector3.zero;
 
 
-        Collider[] colliders = Physics.OverlapSphere(transform.position, 20f);
+        Collider[] colliders = Physics.OverlapSphere(transform.position, 50f);
         Transform closestEnemy = null;
         foreach (var col in colliders)
         {

@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 4bca9b066ed43524884a385cea78652d
+timeCreated: 1480229152
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R
+    100004: Armature
+    100006: Armature_001
+    100008: Cube
+    100010: Foot01_L
+    100012: Foot01_R
+    100014: Foot02_L
+    100016: Foot02_R
+    100018: Hand01_L
+    100020: Hand01_R
+    100022: Hand02_L
+    100024: Hand02_R
+    100026: Hand03_L
+    100028: Hand03_R
+    100030: Hattu
+    100032: Head
+    100034: Hip
+    100036: Housut
+    100038: Leg_L
+    100040: Leg_R
+    100042: Neck
+    100044: Paita
+    100046: Seivas
+    100048: Shin_L
+    100050: Shin_R
+    100052: Shoulder_L
+    100054: Shoulder_R
+    100056: Thumb01_L
+    100058: Thumb01_R
+    100060: Thumb02_L
+    100062: Thumb02_R
+    100064: Torso
+    100066: //RootNode
+    400000: Arm_L
+    400002: Arm_R
+    400004: Armature
+    400006: Armature_001
+    400008: Cube
+    400010: Foot01_L
+    400012: Foot01_R
+    400014: Foot02_L
+    400016: Foot02_R
+    400018: Hand01_L
+    400020: Hand01_R
+    400022: Hand02_L
+    400024: Hand02_R
+    400026: Hand03_L
+    400028: Hand03_R
+    400030: Hattu
+    400032: Head
+    400034: Hip
+    400036: Housut
+    400038: Leg_L
+    400040: Leg_R
+    400042: Neck
+    400044: Paita
+    400046: Seivas
+    400048: Shin_L
+    400050: Shin_R
+    400052: Shoulder_L
+    400054: Shoulder_R
+    400056: Thumb01_L
+    400058: Thumb01_R
+    400060: Thumb02_L
+    400062: Thumb02_R
+    400064: Torso
+    400066: //RootNode
+    4300000: Hattu
+    4300002: Housut
+    4300004: Paita
+    4300006: Cube
+    4300008: Seivas
+    7400000: Default Take
+    7400002: Armature_001Action
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Hattu
+    13700004: Housut
+    13700006: Paita
+    13700008: Seivas
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Hip
+        weight: 1
+      - path: Armature_001/Hip/Leg_L
+        weight: 1
+      - path: Armature_001/Hip/Leg_L/Shin_L
+        weight: 1
+      - path: Armature_001/Hip/Leg_L/Shin_L/Foot01_L
+        weight: 1
+      - path: Armature_001/Hip/Leg_L/Shin_L/Foot01_L/Foot02_L
+        weight: 1
+      - path: Armature_001/Hip/Leg_R
+        weight: 1
+      - path: Armature_001/Hip/Leg_R/Shin_R
+        weight: 1
+      - path: Armature_001/Hip/Leg_R/Shin_R/Foot01_R
+        weight: 1
+      - path: Armature_001/Hip/Leg_R/Shin_R/Foot01_R/Foot02_R
+        weight: 1
+      - path: Armature_001/Hip/Torso
+        weight: 1
+      - path: Armature_001/Hip/Torso/Neck
+        weight: 1
+      - path: Armature_001/Hip/Torso/Neck/Head
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L/Arm_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L/Arm_L/Hand01_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L/Arm_L/Hand01_L/Hand02_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L/Arm_L/Hand01_L/Hand02_L/Hand03_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L/Arm_L/Hand01_L/Thumb01_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L/Arm_L/Hand01_L/Thumb01_L/Thumb02_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R/Arm_R
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R/Arm_R/Hand01_R
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R/Arm_R/Hand01_R/Hand02_R
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R/Arm_R/Hand01_R/Hand02_R/Hand03_R
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R/Arm_R/Hand01_R/Thumb01_R
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R/Arm_R/Hand01_R/Thumb01_R/Thumb02_R
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Hattu
+        weight: 1
+      - path: Housut
+        weight: 1
+      - path: Paita
+        weight: 1
+      - path: Seivas
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature_001Action
+      takeName: Armature_001Action
+      firstFrame: -1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature_001
+        weight: 1
+      - path: Armature_001/Hip
+        weight: 1
+      - path: Armature_001/Hip/Leg_L
+        weight: 1
+      - path: Armature_001/Hip/Leg_L/Shin_L
+        weight: 1
+      - path: Armature_001/Hip/Leg_L/Shin_L/Foot01_L
+        weight: 1
+      - path: Armature_001/Hip/Leg_L/Shin_L/Foot01_L/Foot02_L
+        weight: 1
+      - path: Armature_001/Hip/Leg_R
+        weight: 1
+      - path: Armature_001/Hip/Leg_R/Shin_R
+        weight: 1
+      - path: Armature_001/Hip/Leg_R/Shin_R/Foot01_R
+        weight: 1
+      - path: Armature_001/Hip/Leg_R/Shin_R/Foot01_R/Foot02_R
+        weight: 1
+      - path: Armature_001/Hip/Torso
+        weight: 1
+      - path: Armature_001/Hip/Torso/Neck
+        weight: 1
+      - path: Armature_001/Hip/Torso/Neck/Head
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L/Arm_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L/Arm_L/Hand01_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L/Arm_L/Hand01_L/Hand02_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L/Arm_L/Hand01_L/Hand02_L/Hand03_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L/Arm_L/Hand01_L/Thumb01_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_L/Arm_L/Hand01_L/Thumb01_L/Thumb02_L
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R/Arm_R
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R/Arm_R/Hand01_R
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R/Arm_R/Hand01_R/Hand02_R
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R/Arm_R/Hand01_R/Hand02_R/Hand03_R
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R/Arm_R/Hand01_R/Thumb01_R
+        weight: 1
+      - path: Armature_001/Hip/Torso/Shoulder_R/Arm_R/Hand01_R/Thumb01_R/Thumb02_R
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Hattu
+        weight: 1
+      - path: Housut
+        weight: 1
+      - path: Paita
+        weight: 1
+      - path: Seivas
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
